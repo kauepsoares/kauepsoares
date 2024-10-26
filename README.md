@@ -7,7 +7,7 @@
 
 - 📫 Entre em contato: **kauepsoares04@gmail.com**
 
-<h3 align="left">Onde me encontrar</h3>
+<h3 align="left">Onde me encontrar:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kauê pablo soares de souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kauê pablo soares de souza" height="30" width="40" /></a>
 <a href="https://instagram.com/kauepsoares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kauepsoares" height="30" width="40" /></a>
