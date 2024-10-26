@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, me chamo Kauê Pablo!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Olá 👋, me chamo Kauê Pablo!</h1>
+<h3 align="left">Um desenvolvedor Front-end.
 
 - 🌱 Atualmente estou estudando **JavaScript e TypeScript**
 
