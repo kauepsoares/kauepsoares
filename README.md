@@ -1,6 +1,8 @@
 <h1 align="left">Olá 👋, me chamo Kauê Pablo!</h1>
 <h3 align="left">Um desenvolvedor Front-end.
 
+- 🎓 Cursando **Ciências da computação**.
+
 - 🌱 Atualmente estou estudando **JavaScript e TypeScript**.
 
 - 🤝 Estou procurando minha primeira oportunidade **na área de Front-end.**
