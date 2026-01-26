@@ -5,8 +5,6 @@
 
 - 🌱 Atualmente estou estudando **JavaScript e TypeScript**.
 
-- 🤝 Estou procurando minha primeira oportunidade **na área de Front-end.**
-
 - 📫 Entre em contato: **kauepsoares04@gmail.com**
 
 <h3 align="left">Onde me encontrar:</h3>
