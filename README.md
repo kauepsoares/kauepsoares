@@ -3,7 +3,7 @@
 
 - 🎓 Cursando **Ciências da computação**.
 
-- 🌱 Atualmente estou estudando **JavaScript e TypeScript**.
+- 🌱 Atualmente estou estudando **React e TypeScript**.
 
 - 📫 Entre em contato: **kauepsoares04@gmail.com**
 
